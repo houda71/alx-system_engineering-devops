@@ -12,4 +12,4 @@
 * `8-firstdelete` contain a script to delete the file `betty` in the path `/tmp/my_first_directory`.
 * `9-firstdirdeletion` contain a script to delete the directory `my_first_directory` that is in the `/tmp` directory.
 * `10-back` contain a script to changes the working directory to the previous one
-* `11-lists` contain a script to lists all files (even hidden) in the current directory and the parent of the working directory and the `/boot` directory, in long format. 
+* `11-lists` contain a script to lists all files (even hidden) in the current directory and the parent of the working directory and the `/boot` directory, in order and long format. 
