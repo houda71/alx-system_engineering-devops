@@ -14,4 +14,5 @@
 * `10-back` contain a script to changes the working directory to the previous one
 * `11-lists` contain a script to lists all files (even hidden) in the current directory and the parent of the working directory and the `/boot` directory, in order and long format.
 * `12-file_type` contain script to prints the type of the file named `iamafile`. The file `iamafile` will be in the `/tmp` directory
- 
+* `13-symbolic_link` contain script to create a symbolic link to `/bin/ls`, named `__ls__`. The symbolic link will created in the current working directory.
+
